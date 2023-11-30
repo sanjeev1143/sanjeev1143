@@ -15,23 +15,11 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sanjeev-sde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjeev-sde" height="30" width="40" /></a>
-
-</p>
-
-
-<h3 align="left">My Journey</h3>
-<p align="left" style="display:inline;">
-
-<a href="https://leetcode.com/Mr_Daker/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=512" alt="sanjeev-sde" height="30" width="30" /></a>
-
-
-<a href="https://leetcode.com/Mr_Daker/" target="blank">
-<img align="center" src="https://img.icons8.com/?size=512&id=LnZMjt9rZC3d&format=png" alt="sanjeev-sde" height="30" width="30" />
+<a href="https://www.linkedin.com/in/sanjeev-sde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjeev-sde" height="30" width="40" />
 </a>
+
 </p>
 
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
