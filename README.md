@@ -26,7 +26,9 @@
 <a href="https://leetcode.com/Mr_Daker/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=512" alt="sanjeev-sde" height="30" width="30" /></a>
 
 
-<a href="https://leetcode.com/Mr_Daker/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=LnZMjt9rZC3d&format=png" alt="sanjeev-sde" height="30" width="30" /></a>
+<a href="https://leetcode.com/Mr_Daker/" target="blank">
+<img align="center" src="https://img.icons8.com/?size=512&id=LnZMjt9rZC3d&format=png" alt="sanjeev-sde" height="30" width="30" />
+</a>
 </p>
 
 ###
