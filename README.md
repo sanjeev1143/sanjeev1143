@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sanjeev</h1>
 <h3 align="center">Full Stack Developer
 </h3>
-<h3>Full Stack Engineer dedicated to crafting scalable, maintainable, and testable systems.</h3>
-<h3>Passionate about clean code and seamless user experiences.</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -12,8 +11,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeev1143&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeev" /> </p>
 
 
-
-- 🔭 Crafting *Scalable Solutions*
+- Full Stack Engineer dedicated to crafting scalable, maintainable, and testable systems.
+- Passionate about clean code and seamless user experiences.
 
 
 <h3 align="left">Connect with me:</h3>
